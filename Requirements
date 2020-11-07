@@ -3,3 +3,4 @@ pyttsx3 - v2.90
 Google calendar API - pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
 DateTime -  v4.3
 pytz - v2020.4
+pickle module
