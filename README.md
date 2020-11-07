@@ -2,7 +2,7 @@
 
 ✔ Features:
 
- *Getting the google events by spelling the date and month: program will narrate the event that is present on that day by logging into your google account using credentials
+ -Getting the google events by spelling the date and month: program will narrate the event that is present on that day by logging into your google account using credentials
  *	Short note: By spelling “make a note” , it will trigger the computer microphone and starts listening to your words and save to project file(.txt)
  *	Opening the computer applications by just taking name of it: By spelling “open application” , it will ask for which application to open , then you can tell application name and it will open for you.
 
