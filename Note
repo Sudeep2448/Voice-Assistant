@@ -1,0 +1,5 @@
+Steps to enable google calendar API for your google account , so that you can use this script for personal account:-
+*Go to "https://developers.google.com/calendar/quickstart/python".
+*Enable google calendar API for your google account by logging in.
+*Then delete the credentials that came with project.
+*Now , you can follow the instructions that pop-up on the window
