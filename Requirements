@@ -1,6 +1,6 @@
 SpeechRecognition - v3.8.1     ---link "https://pypi.org/project/SpeechRecognition/"
 pyttsx3 - v2.90    ---link "https://pypi.org/project/pyttsx3/"
-Google calendar API - pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
+Google calendar API - pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib (Run this in anaconda or python prompt)
 DateTime -  v4.3
 pytz - v2020.4   ---link "https://pypi.org/project/pytz/#files"
 pickle module
