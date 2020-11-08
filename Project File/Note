@@ -1,3 +1,6 @@
+*Installing Google Calendar API:
+   pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib (Run this in anaconda or python prompt)
+
 I have added 3 events on November 9 , 10 and 11 , 
   you can check by telling that date and month in running script , 
     you will get know the events.
